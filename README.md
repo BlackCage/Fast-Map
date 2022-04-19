@@ -1,7 +1,7 @@
 # NOMBRE HERRAMIENTA
 ## ¿Para qué sirve?
 (Nombre de la herramienta) es una herramienta creada en Python con la finalidad de hacer que los escaneos sean efectuados de una manera más fácil y solo con información necesaria.
-___
+
 ## Uso
 - **-t**, **--target**
 	- Especifica una IP para escanearla.
@@ -22,7 +22,6 @@ ___
 - **-o,** **--output**
 	- Crea un archivo y guarda la información.
 		- `python3 (nombre de la herramienta).py -t 127.0.0.1 -o Targeted.txt`
-___
 
 ## Combinaciones
 Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido y UDP al mismo tiempo, aunque hay algunas que **no están permitidas**.
