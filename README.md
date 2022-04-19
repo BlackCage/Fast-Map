@@ -4,11 +4,12 @@
 ## Uso
 - **-t**, **--target**
 	- Especifica una IP para escanearla.
-	- `python3 (nombre de la herramienta).py -t 127.0.0.1`
+	 `python3 (nombre de la herramienta).py -t 127.0.0.1`
 	
 - **-f**, **--fast**
 	- Hace que el escaneo sea más rápido pero solo escanea los 100 puertos más comunes en todos los protocolos.
-	- `python3 (nombre de la herramienta).py -t 127.0.0.1 -f`
+
+	`python3 (nombre de la herramienta).py -t 127.0.0.1 -f`
 	
 - **-sU**, **--udp**
 	- Haz que el escaneo se realice por el protocolo «**UDP**».
