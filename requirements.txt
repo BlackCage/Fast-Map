@@ -1,0 +1,4 @@
+colorama==0.4.4
+nmap==0.0.1
+python_nmap==0.7.1
+requests==2.25.1
