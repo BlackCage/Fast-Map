@@ -37,4 +37,5 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 | Mac     | Not Tested |
 
 ###### Versión : 0.0.1
-###### Nuevo : Añadir el método UDP.
+- Añadido el método "UDP".
+- - Añadido el "input".
