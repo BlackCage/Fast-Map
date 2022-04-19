@@ -29,6 +29,7 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 - `python3 (nombre de la herramienta).py -t 127.0.0.1 -i archivo.txt`
 	- Ésta combinación dará error, ya que no puedes especificar un archivo de entrada y una IP.
 
+## Dónde funciona
 |    OS   |   Tested   |
 |:-------:|:----------:|
 | Linux   |      ✔️     |
