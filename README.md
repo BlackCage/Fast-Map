@@ -36,7 +36,7 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 | Windows |      ✔️     |
 | Mac     | Not Tested |
 
-
+___
 
 ###### Versión : 0.0.1
 - Añadido el método "UDP".
