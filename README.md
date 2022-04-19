@@ -1,6 +1,6 @@
 # NOMBRE HERRAMIENTA
-## ¿Para qué sirve?
-(Nombre de la herramienta) es una herramienta creada en Python con la finalidad de hacer que los escaneos sean efectuados de una manera más fácil y solo con información necesaria.
+
+> (Nombre de la herramienta) es una herramienta creada en Python con la finalidad de hacer que los escaneos sean efectuados de una manera más fácil y solo con información necesaria.
 
 ## Uso
 - **-t**, **--target**
