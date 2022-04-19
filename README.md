@@ -36,4 +36,4 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 | Windows |      ✔️     |
 | Mac     | Not Tested |
 
-###### Versión : 0.0.0
+###### Versión : 0.0.1
