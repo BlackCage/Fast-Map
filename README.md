@@ -39,5 +39,6 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 ___
 
 ###### Versión : 0.0.1
-- Añadido el método "UDP".
 - Añadido el "input".
+- Añadido el "output".
+- Añadido el método "UDP".
