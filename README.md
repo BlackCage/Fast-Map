@@ -54,3 +54,4 @@ ___
 - Crear "installModules.py" y añadirlo a "scripts".
 - Cambiar el nombre de "Reconocimiento.py" a "fastMap.py".
 - Mover "json_data.json" a "log".
+- Poner repositorio en público.
