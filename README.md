@@ -37,9 +37,15 @@ python3 fastMap.py
 ## Combinaciones
 Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido y UDP al mismo tiempo, aunque hay algunas que **no están permitidas**.
 ### NO PERMITIDAS
+- `python3 fastMap.py`
+	- A no ser que sea la primera vez para instalar los módulos necesarios dará error, ya que no se ha especificado ninguna opción.
+
 - `python3 fastMap.py -t 127.0.0.1 -i archivo.txt`
 	- Ésta combinación dará error, ya que no puedes especificar un archivo de entrada y una IP.
 
+- `python3 fastMap.py -f/-sU/-o`
+	- No se ha especificado ninguna IP o archivo, por lo que ***Fast Map*** no puede trabajar.
+ 
 ## Dónde funciona
 |    OS   |   Tested   |
 |:-------:|:----------:|
