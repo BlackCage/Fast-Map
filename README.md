@@ -3,8 +3,16 @@
 > ***Fast Map*** es una herramienta creada en Python que utiliza NMAP con la finalidad de hacer que los escaneos sean efectuados de una manera más fácil y solo con información necesaria.
 
 ## Instalación
-La instalación es sencilla, con tan solo iniciar el programa se instalan los paquetes necesarios.
-- `python3 fastMap.py`
+```bash
+# Clonar el repositorio
+git clone https://github.com/BlackCage/Fast-Map
+
+# Movernos al directorio
+cd Fast-Map/
+
+# Iniciamos el script para instalarnos los módulos necesarios
+python3 fastMap.py
+```
 
 ## Uso
 - **-t**, **--target**
