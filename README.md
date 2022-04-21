@@ -2,6 +2,10 @@
 
 > (Nombre de la herramienta) es una herramienta creada en Python con la finalidad de hacer que los escaneos sean efectuados de una manera más fácil y solo con información necesaria.
 
+## Instalación
+La instalación es sencilla, con tan solo iniciar el programa se instalan los paquetes necesarios.
+	- `python3 nombre.py`
+
 ## Uso
 - **-t**, **--target**
 	- Especifica una IP para escanearla.
