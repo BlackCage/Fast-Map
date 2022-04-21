@@ -4,7 +4,7 @@
 
 ## Instalación
 La instalación es sencilla, con tan solo iniciar el programa se instalan los paquetes necesarios.
-	- `python3 nombre.py`
+- `python3 nombre.py`
 
 ## Uso
 - **-t**, **--target**
