@@ -42,3 +42,9 @@ ___
 - Añadido el "input".
 - Añadido el "output".
 - Añadido el método "UDP".
+
+___
+
+###### Versión : 0.0.2
+- Mover "Modules.py" a "scripts".
+- Crear "installModules.py" y añadirlo a "scripts".
