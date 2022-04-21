@@ -52,4 +52,5 @@ ___
 ###### Versión : 0.0.2
 - Mover "Modules.py" a "scripts".
 - Crear "installModules.py" y añadirlo a "scripts".
-- Cambiar el nombre de "Reconocimiento.py" a "fastMap.py"
+- Cambiar el nombre de "Reconocimiento.py" a "fastMap.py".
+- Mover "json_data.json" a "log".
