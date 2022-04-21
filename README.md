@@ -10,10 +10,9 @@ git clone https://github.com/BlackCage/Fast-Map
 # Movernos al directorio
 cd Fast-Map/
 
-# Iniciamos el script para instalarnos los módulos necesarios
+# Iniciamos el script para instalar los módulos necesarios
 python3 fastMap.py
 ```
-
 ## Uso
 - **-t**, **--target**
 	- Especifica una IP para escanearla.
