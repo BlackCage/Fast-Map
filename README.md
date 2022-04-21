@@ -46,7 +46,7 @@ Sí, puedes combinar las opciones, es decir, puedes efectuar un escaneo rápido 
 - `python3 fastMap.py -f/-sU/-o`
 	- No se ha especificado ninguna IP o archivo, por lo que ***Fast Map*** no puede trabajar.
  
-## Dónde funciona
+## ¿Dónde funciona?
 |    OS   |   Tested   |
 |:-------:|:----------:|
 | Linux   |      ✔️     |
