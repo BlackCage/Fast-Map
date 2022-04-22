@@ -71,5 +71,5 @@ ___
 
 ___
 
-###### Versión : 0.0.2
+###### Versión : 0.0.3
 - Arreglar un fallo de importación en "allPorts.py" y "allVersions.py".
