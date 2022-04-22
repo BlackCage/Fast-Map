@@ -68,3 +68,8 @@ ___
 - Cambiar el nombre de "Reconocimiento.py" a "fastMap.py".
 - Mover "json_data.json" a "log".
 - Poner repositorio en público.
+
+___
+
+###### Versión : 0.0.2
+- Arreglar un fallo de importación en "allPorts.py" y "allVersions.py".
